@@ -1,0 +1,24 @@
+{
+  "name": "struct",
+  "version": "0.0.0",
+  "description": "playing around with data structures",
+  "main": "linkedlist.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/nodeunit/bin/nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eighttrackmind/struct.git"
+  },
+  "author": "Boris Cherny <boris@performancejs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eighttrackmind/struct/issues"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.8.2"
+  }
+}
